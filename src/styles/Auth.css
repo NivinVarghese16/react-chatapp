@@ -1,0 +1,16 @@
+.auth {
+    text-align: center;
+    font-weight: 500;
+    font-size: xx-large;
+}
+
+.auth button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #128C7E;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
